@@ -195,3 +195,6 @@ C:\Auth0CarlosTest\Auth0NetFramework\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Auth0CarlosTest\Auth0NetFramework\bin\Microsoft.Owin.Security.OpenIdConnect.xml
 C:\Auth0CarlosTest\Auth0NetFramework\bin\System.IdentityModel.Tokens.Jwt.pdb
 C:\Auth0CarlosTest\Auth0NetFramework\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Auth0CarlosTest\Auth0NetFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Auth0CarlosTest\Auth0NetFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Auth0CarlosTest\Auth0NetFramework\bin\cs\Microsoft.Owin.Host.SystemWeb.resources.dll
